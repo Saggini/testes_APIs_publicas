@@ -30,6 +30,9 @@ Para não rodar algum cenário específico no regressivo é utilizado o seguinte
 | tag > Descrição
 
 > -i | Serve para indicar qual cenario vai serexecutado pela tag
+********************************************************************
 > -e | Serve para indicar qual teste não irar rodar pela tag
+********************************************************************
 > -v | Serve para setar o valor de uma variavel na hora da execução
+********************************************************************
 > -d | Serve para indicar qual pasta a evidencia ficara salva
