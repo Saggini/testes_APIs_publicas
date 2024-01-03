@@ -26,11 +26,10 @@ Para não rodar algum cenário específico no regressivo é utilizado o seguinte
 + [BuiltIn](https://robotframework.org/robotframework/latest/libraries/BuiltIn.html)
 
 ### TAGS ####
--------------------------------------------------------------------
-| tag | Descrição                                                 |
-|----------------                                                 |
-|-i | Serve para indicar qual cenario vai serexecutado pela tag   |
-|-e| Serve para indicar qual teste não irar rodar pela tag        |
-|-v | Serve para setar o valor de uma variavel na hora da execução|
-|-d | Serve para indicar qual pasta a evidencia ficara salva      |
-------------------------------------------------------------------
+--------------------------------------------------------------------
+| tag > Descrição
+
+> -i | Serve para indicar qual cenario vai serexecutado pela tag
+> -e | Serve para indicar qual teste não irar rodar pela tag
+> -v | Serve para setar o valor de uma variavel na hora da execução
+> -d | Serve para indicar qual pasta a evidencia ficara salva
